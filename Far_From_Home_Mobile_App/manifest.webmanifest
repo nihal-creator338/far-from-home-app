@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Far From Home \u2013 LPU International Student Support",
+  "short_name": "Far From Home",
+  "description": "A mobile companion for international students at Lovely Professional University.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1B365D",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
